@@ -1,3 +1,5 @@
 # AAAVideoGame
-#Лицензия 🔒
-Distributed under the GPL License. See [LICENSE](https://github.com/Denchikper/AAAVideoGame/blob/website/LICENSE) for more information.
+https://github.com/Denchikper/AAAVideoGame/blob/website/icons/avatar.svg
+
+# Лицензия 🔒
+Распространяется под GPL License. Смотри [LICENSE](https://github.com/Denchikper/AAAVideoGame/blob/website/LICENSE) для информации.
