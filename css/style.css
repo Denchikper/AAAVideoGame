@@ -1,0 +1,237 @@
+/*ФОН*/
+.back {
+    position: absolute;
+    width: 1903px;
+    height: 1080px;
+    left: 0px;
+    line-height: 0px; /* Межстрочное расстояние */
+}
+.back2 {
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 1903px;
+    height: 1080px;
+    left: 0px;
+}
+.back1 {
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 1903px;
+    height: 1080px;
+    left: 0px;
+}
+.backrect {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1.5px);
+    position: absolute;
+    width: 1903px;
+    height: 3250px;
+    left: 0px;
+    top: 0px;
+    margin: 0 auto; /* Выравнивание блока по центру */
+    line-height: 0px; /* Межстрочное расстояние */
+}
+/*Аватар и название*/
+.rectforavatar {
+    position: absolute;
+    width: 806px;
+    height: 204px;
+    margin-left: 25px;
+    margin-top: 20px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.avatar {
+    position: absolute;
+    width: 677px;
+    height: 224px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.rectforname {
+    position: absolute;
+    width: 892px;
+    height: 102px;
+    margin-left: 973px;
+    margin-top: 20px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.Nameonrect {
+    position: absolute;
+    width: 887px;
+    height: 102px;
+    margin-left: 973px;
+    margin-top: 20px;
+    font-family: 'jsMath-cmr10';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    color: #000000;
+}
+/*Ссылки*/
+.rect1 {
+    margin-top: 173px;
+    margin-left: 973px;
+    position: absolute;
+    width: 239px;
+    height: 51px;    
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.rect2 {
+    position: absolute;
+    width: 239px;
+    height: 51px;
+    margin-top: 173px;
+    margin-left: 1297px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.rect3 {
+    position: absolute;
+    width: 239px;
+    height: 51px;
+    margin-top: 173px;
+    margin-left: 1621px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.namerect1 {
+    position: absolute;
+    width: 239px;
+    height: 51px;
+    margin-top: 173px;
+    margin-left: 973px;  
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;   
+    color: #000000;
+}
+.namerect2 {
+    position: absolute;
+    width: 237px;
+    height: 51px;
+    margin-top: 173px;
+    margin-left: 1297px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+}
+.namerect3 {
+    position: absolute;
+    width: 237px;
+    height: 51px;
+    margin-top: 173px;
+    margin-left: 1625px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+}
+/*Футер*/
+.rectforfooter {
+    position: absolute;
+    width: 1903px;
+    height: 292px;
+    left: 0px;
+    top: 2956px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(2px);
+}
+.avatar2 {
+    position: absolute;
+    width: 521px;
+    height: 185px;
+    top: 32px;
+    left: 0px;
+}
+.copyright {
+    position: absolute;
+    width: 717px;
+    height: 50px;
+    top: 200px;
+    left: 0px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+}
+.vklogo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1506px;
+    top: 182px;
+}
+.ytlogo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1648px;
+    top: 182px;
+}
+.dslogo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1790px;
+    top: 182px;
+}
+.letter {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 1490px;
+    top: 24px;
+}
+.textreport {
+    position: absolute;
+    width: 361px;
+    height: 36px;
+    margin-left: 1519px;
+    margin-top: 21px;    
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    position: absolute;
+    left: 872px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 65px;
+    color: black;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
