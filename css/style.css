@@ -235,3 +235,193 @@ a {
     text-decoration: none;
     color: black;
 }
+/*Main*/
+.img_1 {
+    position: absolute;
+    width: 997px;
+    height: 618px;
+    left: 863px;
+    top: 329px;
+    background: url(image.png);
+    border-radius: 50px;
+}
+.recttext1 {
+    position: absolute;
+    width: 771px;
+    height: 490px;
+    top: 452px;
+    left: 20px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.rectforname1 {
+    position: absolute;
+    width: 347px;
+    height: 80px;
+    top: 329px;
+    left: 20px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.name1 {
+    position: absolute;
+    width: 345.05px;
+    height: 80px;
+    top: 275px;
+    left: 20px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 80px;
+    text-align: center;
+    color: #000000;
+}
+.text1 {
+    position: absolute;
+    width: 771px;
+    height: 490px;
+    top: 405px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 80px;
+    text-align: center;
+    color: #000000;
+}
+/*Projects*/
+.rectforname2 {
+    position: absolute;
+    width: 347px;
+    height: 80px;
+    top: 1260px;
+    left: 766px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.name2 {
+    position: absolute;
+    width: 345.05px;
+    height: 80px;
+    top: 1205px;
+    left: 766px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 80px;
+    text-align: center;
+    color: #000000;
+}
+.pr1 {
+    position: absolute;
+    width: 500px;
+    height: 421px;
+    top: 1407px;
+    left: 32px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.pr2 {
+    position: absolute;
+    width: 500px;
+    height: 421px;
+    top: 1407px;
+    left: 690px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.pr3 {
+    position: absolute;
+    width: 500px;
+    height: 421px;
+    top: 1407px;
+    left: 1348px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.pr1_img {
+    position: absolute;
+    width: 400px;
+    height: 381.15px;
+    left: 82px;
+    top: 1427px;
+}
+.pr2_img {
+    position: absolute;
+    width: 500px;
+    height: 419.32px;
+    left: 690px;
+    top: 1407px;
+}
+.pr3_img {
+    position: absolute;
+    width: 500px;
+    height: 421px;
+    left: 1348px;
+    top: 1407px;
+}
+/*About*/
+.img_3 {
+    position: absolute;
+    width: 880px;
+    height: 618px;
+    left: 32px;
+    top: 2089px;
+    border-radius: 50px;
+}
+.recttext3 {
+    position: absolute;
+    width: 771px;
+    height: 490px; 
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    top: 2222px;
+    left: 1089px;
+    border-radius: 50px;
+}
+.rectforname3 {
+    position: absolute;
+    width: 347px;
+    height: 80px;
+    top: 2099px;
+    left: 1513px;
+    background: rgba(217, 217, 217, 0.8);
+    backdrop-filter: blur(7.5px);
+    border-radius: 50px;
+}
+.name3 {
+    position: absolute;
+    width: 345.05px;
+    height: 80px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 80px;
+    top: 2045px;
+    left: 1513px;
+    text-align: center;
+    color: #000000;
+}
+.text3 {
+    position: absolute;
+    width: 771px;
+    height: 490px;
+    top: 2180px;
+    left: 1089px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 80px;
+    text-align: center;
+    color: #000000;
+}
